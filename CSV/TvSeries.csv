@@ -1,0 +1,766 @@
+name,season,chapter,airdate,info,rating,total_votes,z_score
+Breaking Bad,1,1,20 Jan. 2008,Pilot,9.0,"23,425",0.9678
+Breaking Bad,1,2,27 Jan. 2008,Cat's in the Bag...,8.7,"16,853",0.5591
+Breaking Bad,1,3,10 Feb. 2008,...And the Bag's in the River,8.8,"16,334",0.6953
+Breaking Bad,1,4,17 Feb. 2008,Cancer Man,8.3,"15,847",0.0141
+Breaking Bad,1,5,24 Feb. 2008,Gray Matter,8.4,"15,530",0.1503
+Breaking Bad,1,6,2 Mar. 2008,Crazy Handful of Nothin',9.3,"18,009",1.3765
+Breaking Bad,1,7,9 Mar. 2008,A No-Rough-Stuff-Type Deal,8.9,"15,830",0.8315
+Breaking Bad,2,1,8 Mar. 2009,Seven Thirty-Seven,8.7,"14,167",0.5591
+Breaking Bad,2,2,15 Mar. 2009,Grilled,9.3,"16,524",1.3765
+Breaking Bad,2,3,22 Mar. 2009,Bit by a Dead Bee,8.4,"13,740",0.1503
+Breaking Bad,2,4,29 Mar. 2009,Down,8.3,"13,876",0.0141
+Breaking Bad,2,5,5 Apr. 2009,Breakage,8.4,"13,457",0.1503
+Breaking Bad,2,6,12 Apr. 2009,Peekaboo,8.9,"14,887",0.8315
+Breaking Bad,2,7,19 Apr. 2009,Negro Y Azul,8.7,"13,414",0.5591
+Breaking Bad,2,8,26 Apr. 2009,Better Call Saul,9.2,"15,820",1.2403
+Breaking Bad,2,9,3 May 2009,4 Days Out,9.1,"15,356",1.1040
+Breaking Bad,2,10,10 May 2009,Over,8.6,"13,146",0.4228
+Breaking Bad,2,11,17 May 2009,Mandala,8.9,"13,598",0.8315
+Breaking Bad,2,12,24 May 2009,Phoenix,9.3,"15,286",1.3765
+Breaking Bad,2,13,31 May 2009,ABQ,9.3,"15,287",1.3765
+Breaking Bad,3,1,21 Mar. 2010,No Más,8.6,"13,023",0.4228
+Breaking Bad,3,2,28 Mar. 2010,Caballo sin Nombre,8.7,"12,609",0.5591
+Breaking Bad,3,3,4 Apr. 2010,I.F.T.,8.5,"12,660",0.2866
+Breaking Bad,3,4,11 Apr. 2010,Green Light,8.3,"12,913",0.0141
+Breaking Bad,3,5,18 Apr. 2010,Más,8.7,"12,274",0.5591
+Breaking Bad,3,6,25 Apr. 2010,Sunset,9.3,"14,692",1.3765
+Breaking Bad,3,7,2 May 2010,One Minute,9.6,"18,174",1.7853
+Breaking Bad,3,8,9 May 2010,I See You,8.8,"12,721",0.6953
+Breaking Bad,3,9,16 May 2010,Kafkaesque,8.5,"12,622",0.2866
+Breaking Bad,3,10,23 May 2010,Fly,7.8,"22,164",-0.6672
+Breaking Bad,3,11,30 May 2010,Abiquiu,8.5,"12,490",0.2866
+Breaking Bad,3,12,6 Jun. 2010,Half Measures,9.5,"17,556",1.6490
+Breaking Bad,3,13,13 Jun. 2010,Full Measure,9.7,"19,756",1.9215
+Breaking Bad,4,1,17 Jul. 2011,Box Cutter,9.2,"15,807",1.2403
+Breaking Bad,4,2,24 Jul. 2011,Thirty-Eight Snub,8.3,"13,110",0.0141
+Breaking Bad,4,3,31 Jul. 2011,Open House,8.1,"13,235",-0.2584
+Breaking Bad,4,4,7 Aug. 2011,Bullet Points,8.7,"12,349",0.5591
+Breaking Bad,4,5,14 Aug. 2011,Shotgun,8.7,"12,377",0.5591
+Breaking Bad,4,6,21 Aug. 2011,Cornered,8.5,"12,539",0.2866
+Breaking Bad,4,7,28 Aug. 2011,Problem Dog,8.9,"13,056",0.8315
+Breaking Bad,4,8,4 Sep. 2011,Hermanos,9.3,"14,728",1.3765
+Breaking Bad,4,9,11 Sep. 2011,Bug,8.9,"13,177",0.8315
+Breaking Bad,4,10,18 Sep. 2011,Salud,9.6,"18,636",1.7853
+Breaking Bad,4,11,25 Sep. 2011,Crawl Space,9.7,"21,538",1.9215
+Breaking Bad,4,12,2 Oct. 2011,End Times,9.5,"16,674",1.6490
+Breaking Bad,4,13,9 Oct. 2011,Face Off,9.9,"40,167",2.1940
+Breaking Bad,5,1,15 Jul. 2012,Live Free or Die,9.3,"18,688",1.3765
+Breaking Bad,5,2,22 Jul. 2012,Madrigal,8.9,"15,679",0.8315
+Breaking Bad,5,3,29 Jul. 2012,Hazard Pay,8.9,"15,209",0.8315
+Breaking Bad,5,4,5 Aug. 2012,Fifty-One,8.9,"15,314",0.8315
+Breaking Bad,5,5,12 Aug. 2012,Dead Freight,9.7,"22,804",1.9215
+Breaking Bad,5,6,19 Aug. 2012,Buyout,9.1,"15,675",1.1040
+Breaking Bad,5,7,26 Aug. 2012,Say My Name,9.6,"20,110",1.7853
+Breaking Bad,5,8,2 Sep. 2012,Gliding Over All,9.6,"20,842",1.7853
+Breaking Bad,5,9,11 Aug. 2013,Blood Money,9.5,"20,284",1.6490
+Breaking Bad,5,10,18 Aug. 2013,Buried,9.2,"17,572",1.2403
+Breaking Bad,5,11,25 Aug. 2013,Confessions,9.6,"21,665",1.7853
+Breaking Bad,5,12,1 Sep. 2013,Rabid Dog,9.2,"18,348",1.2403
+Breaking Bad,5,13,8 Sep. 2013,To'hajiilee,9.8,"30,948",2.0578
+Breaking Bad,5,14,15 Sep. 2013,Ozymandias,10.0,"116,705",2.3303
+Breaking Bad,5,15,22 Sep. 2013,Granite State,9.7,"31,273",1.9215
+Breaking Bad,5,16,29 Sep. 2013,Felina,9.9,"83,281",2.1940
+Big Bang Theory,1,0,1 May 2006,Unaired Pilot,6.7,"1,758",-2.1659
+Big Bang Theory,1,1,24 Sep. 2007,Pilot,8.3,"5,099",0.0141
+Big Bang Theory,1,2,1 Oct. 2007,The Big Bran Hypothesis,8.3,"4,024",0.0141
+Big Bang Theory,1,3,8 Oct. 2007,The Fuzzy Boots Corollary,7.8,"3,545",-0.6672
+Big Bang Theory,1,4,15 Oct. 2007,The Luminous Fish Effect,8.2,"3,602",-0.1222
+Big Bang Theory,1,5,22 Oct. 2007,The Hamburger Postulate,8.0,"3,405",-0.3947
+Big Bang Theory,1,6,29 Oct. 2007,The Middle Earth Paradigm,8.5,"3,568",0.2866
+Big Bang Theory,1,7,5 Nov. 2007,The Dumpling Paradox,8.2,"3,348",-0.1222
+Big Bang Theory,1,8,12 Nov. 2007,The Grasshopper Experiment,8.3,"3,372",0.0141
+Big Bang Theory,1,9,17 Mar. 2008,The Cooper-Hofstadter Polarization,8.1,"3,249",-0.2584
+Big Bang Theory,1,10,24 Mar. 2008,The Loobenfeld Decay,8.1,"3,316",-0.2584
+Big Bang Theory,1,11,31 Mar. 2008,The Pancake Batter Anomaly,8.3,"3,305",0.0141
+Big Bang Theory,1,12,14 Apr. 2008,The Jerusalem Duality,8.0,"3,136",-0.3947
+Big Bang Theory,1,13,21 Apr. 2008,The Bat Jar Conjecture,8.4,"3,228",0.1503
+Big Bang Theory,1,14,28 Apr. 2008,The Nerdvana Annihilation,8.1,"3,193",-0.2584
+Big Bang Theory,1,15,5 May 2008,The Pork Chop Indeterminacy,8.3,"3,367",0.0141
+Big Bang Theory,1,16,12 May 2008,The Peanut Reaction,8.4,"3,166",0.1503
+Big Bang Theory,1,17,19 May 2008,The Tangerine Factor,8.6,"3,318",0.4228
+Big Bang Theory,2,1,22 Sep. 2008,The Bad Fish Paradigm,8.3,"3,234",0.0141
+Big Bang Theory,2,2,29 Sep. 2008,The Codpiece Topology,8.2,"2,968",-0.1222
+Big Bang Theory,2,3,6 Oct. 2008,The Barbarian Sublimation,8.8,"3,454",0.6953
+Big Bang Theory,2,4,13 Oct. 2008,The Griffin Equivalency,8.0,"2,985",-0.3947
+Big Bang Theory,2,5,20 Oct. 2008,The Euclid Alternative,8.4,"3,055",0.1503
+Big Bang Theory,2,6,3 Nov. 2008,The Cooper-Nowitzki Theorem,8.3,"3,079",0.0141
+Big Bang Theory,2,7,10 Nov. 2008,The Panty Piñata Polarization,8.7,"3,267",0.5591
+Big Bang Theory,2,8,17 Nov. 2008,The Lizard-Spock Expansion,8.2,"2,932",-0.1222
+Big Bang Theory,2,9,24 Nov. 2008,The White Asparagus Triangulation,8.2,"2,903",-0.1222
+Big Bang Theory,2,10,8 Dec. 2008,The Vartabedian Conundrum,7.8,"2,841",-0.6672
+Big Bang Theory,2,11,15 Dec. 2008,The Bath Item Gift Hypothesis,9.2,"4,932",1.2403
+Big Bang Theory,2,12,12 Jan. 2009,The Killer Robot Instability,8.0,"2,855",-0.3947
+Big Bang Theory,2,13,19 Jan. 2009,The Friendship Algorithm,8.1,"2,867",-0.2584
+Big Bang Theory,2,14,2 Feb. 2009,The Financial Permeability,8.1,"2,825",-0.2584
+Big Bang Theory,2,15,9 Feb. 2009,The Maternal Capacitance,8.9,"3,470",0.8315
+Big Bang Theory,2,16,2 Mar. 2009,The Cushion Saturation,8.3,"2,852",0.0141
+Big Bang Theory,2,17,9 Mar. 2009,The Terminator Decoupling,8.2,"3,141",-0.1222
+Big Bang Theory,2,18,16 Mar. 2009,The Work Song Nanocluster,8.2,"2,868",-0.1222
+Big Bang Theory,2,19,30 Mar. 2009,The Dead Hooker Juxtaposition,8.3,"2,906",0.0141
+Big Bang Theory,2,20,13 Apr. 2009,The Hofstadter Isotope,8.0,"2,781",-0.3947
+Big Bang Theory,2,21,27 Apr. 2009,The Vegas Renormalization,8.6,"3,025",0.4228
+Big Bang Theory,2,22,4 May 2009,The Classified Materials Turbulence,8.3,"2,751",0.0141
+Big Bang Theory,2,23,11 May 2009,The Monopolar Expedition,8.4,"2,839",0.1503
+Big Bang Theory,3,1,21 Sep. 2009,The Electric Can Opener Fluctuation,8.4,"3,078",0.1503
+Big Bang Theory,3,2,28 Sep. 2009,The Jiminy Conjecture,7.9,"2,775",-0.5309
+Big Bang Theory,3,3,5 Oct. 2009,The Gothowitz Deviation,8.2,"2,850",-0.1222
+Big Bang Theory,3,4,12 Oct. 2009,The Pirate Solution,8.1,"2,777",-0.2584
+Big Bang Theory,3,5,19 Oct. 2009,The Creepy Candy Coating Corollary,8.3,"2,837",0.0141
+Big Bang Theory,3,6,2 Nov. 2009,The Cornhusker Vortex,7.6,"2,664",-0.9397
+Big Bang Theory,3,7,9 Nov. 2009,The Guitarist Amplification,7.9,"2,671",-0.5309
+Big Bang Theory,3,8,16 Nov. 2009,The Adhesive Duck Deficiency,9.0,"3,882",0.9678
+Big Bang Theory,3,9,23 Nov. 2009,The Vengeance Formulation,8.4,"2,844",0.1503
+Big Bang Theory,3,10,7 Dec. 2009,The Gorilla Experiment,8.6,"2,896",0.4228
+Big Bang Theory,3,11,14 Dec. 2009,The Maternal Congruence,8.4,"2,774",0.1503
+Big Bang Theory,3,12,11 Jan. 2010,The Psychic Vortex,8.4,"2,765",0.1503
+Big Bang Theory,3,13,18 Jan. 2010,The Bozeman Reaction,8.1,"2,685",-0.2584
+Big Bang Theory,3,14,1 Feb. 2010,The Einstein Approximation,8.5,"2,926",0.2866
+Big Bang Theory,3,15,8 Feb. 2010,The Large Hadron Collision,8.1,"2,624",-0.2584
+Big Bang Theory,3,16,1 Mar. 2010,The Excelsior Acquisition,8.4,"2,720",0.1503
+Big Bang Theory,3,17,8 Mar. 2010,The Precious Fragmentation,8.5,"2,893",0.2866
+Big Bang Theory,3,18,22 Mar. 2010,The Pants Alternative,8.5,"2,830",0.2866
+Big Bang Theory,3,19,12 Apr. 2010,The Wheaton Recurrence,8.0,"2,630",-0.3947
+Big Bang Theory,3,20,3 May 2010,The Spaghetti Catalyst,8.2,"2,613",-0.1222
+Big Bang Theory,3,21,10 May 2010,The Plimpton Stimulation,8.2,"2,833",-0.1222
+Big Bang Theory,3,22,17 May 2010,The Staircase Implementation,9.1,"3,783",1.1040
+Big Bang Theory,3,23,24 May 2010,The Lunar Excitation,8.6,"2,874",0.4228
+Big Bang Theory,4,1,23 Sep. 2010,The Robotic Manipulation,8.8,"3,285",0.6953
+Big Bang Theory,4,2,30 Sep. 2010,The Cruciferous Vegetable Amplification,8.5,"2,926",0.2866
+Big Bang Theory,4,3,7 Oct. 2010,The Zazzy Substitution,8.1,"2,725",-0.2584
+Big Bang Theory,4,4,14 Oct. 2010,The Hot Troll Deviation,8.1,"2,722",-0.2584
+Big Bang Theory,4,5,21 Oct. 2010,The Desperation Emanation,7.8,"2,592",-0.6672
+Big Bang Theory,4,6,28 Oct. 2010,The Irish Pub Formulation,8.1,"2,642",-0.2584
+Big Bang Theory,4,7,4 Nov. 2010,The Apology Insufficiency,8.1,"2,683",-0.2584
+Big Bang Theory,4,8,11 Nov. 2010,The 21-Second Excitation,8.2,"2,646",-0.1222
+Big Bang Theory,4,9,18 Nov. 2010,The Boyfriend Complexity,8.5,"2,788",0.2866
+Big Bang Theory,4,10,9 Dec. 2010,The Alien Parasite Hypothesis,7.8,"2,579",-0.6672
+Big Bang Theory,4,11,16 Dec. 2010,The Justice League Recombination,8.7,"3,014",0.5591
+Big Bang Theory,4,12,6 Jan. 2011,The Bus Pants Utilization,7.7,"2,592",-0.8034
+Big Bang Theory,4,13,20 Jan. 2011,The Love Car Displacement,8.3,"2,769",0.0141
+Big Bang Theory,4,14,3 Feb. 2011,The Thespian Catalyst,7.9,"2,599",-0.5309
+Big Bang Theory,4,15,10 Feb. 2011,The Benefactor Factor,7.8,"2,572",-0.6672
+Big Bang Theory,4,16,17 Feb. 2011,The Cohabitation Formulation,8.0,"2,501",-0.3947
+Big Bang Theory,4,17,24 Feb. 2011,The Toast Derivation,8.0,"2,536",-0.3947
+Big Bang Theory,4,18,10 Mar. 2011,The Prestidigitation Approximation,8.2,"2,660",-0.1222
+Big Bang Theory,4,19,31 Mar. 2011,The Zarnecki Incursion,8.2,"2,578",-0.1222
+Big Bang Theory,4,20,7 Apr. 2011,The Herb Garden Germination,8.3,"2,565",0.0141
+Big Bang Theory,4,21,28 Apr. 2011,The Agreement Dissection,8.3,"2,625",0.0141
+Big Bang Theory,4,22,5 May 2011,The Wildebeest Implementation,7.9,"2,486",-0.5309
+Big Bang Theory,4,23,12 May 2011,The Engagement Reaction,8.1,"2,513",-0.2584
+Big Bang Theory,4,24,19 May 2011,The Roommate Transmogrification,8.6,"2,699",0.4228
+Big Bang Theory,5,1,22 Sep. 2011,The Skank Reflex Analysis,8.1,"3,145",-0.2584
+Big Bang Theory,5,2,22 Sep. 2011,The Infestation Hypothesis,8.1,"2,703",-0.2584
+Big Bang Theory,5,3,29 Sep. 2011,The Pulled Groin Extrapolation,7.8,"2,573",-0.6672
+Big Bang Theory,5,4,6 Oct. 2011,The Wiggly Finger Catalyst,8.0,"2,621",-0.3947
+Big Bang Theory,5,5,13 Oct. 2011,The Russian Rocket Reaction,8.1,"2,594",-0.2584
+Big Bang Theory,5,6,20 Oct. 2011,The Rhinitis Revelation,7.7,"2,533",-0.8034
+Big Bang Theory,5,7,27 Oct. 2011,The Good Guy Fluctuation,8.6,"3,198",0.4228
+Big Bang Theory,5,8,3 Nov. 2011,The Isolation Permutation,7.7,"2,533",-0.8034
+Big Bang Theory,5,9,10 Nov. 2011,The Ornithophobia Diffusion,8.2,"2,653",-0.1222
+Big Bang Theory,5,10,17 Nov. 2011,The Flaming Spittoon Acquisition,8.0,"2,592",-0.3947
+Big Bang Theory,5,11,8 Dec. 2011,The Speckerman Recurrence,7.4,"2,521",-1.2121
+Big Bang Theory,5,12,12 Jan. 2012,The Shiny Trinket Maneuver,7.8,"2,551",-0.6672
+Big Bang Theory,5,13,19 Jan. 2012,The Recombination Hypothesis,8.2,"2,692",-0.1222
+Big Bang Theory,5,14,26 Jan. 2012,The Beta Test Initiation,8.3,"2,708",0.0141
+Big Bang Theory,5,15,2 Feb. 2012,The Friendship Contraction,7.8,"2,442",-0.6672
+Big Bang Theory,5,16,9 Feb. 2012,The Vacation Solution,7.7,"2,424",-0.8034
+Big Bang Theory,5,17,16 Feb. 2012,The Rothman Disintegration,7.9,"2,487",-0.5309
+Big Bang Theory,5,18,23 Feb. 2012,The Werewolf Transformation,8.3,"2,659",0.0141
+Big Bang Theory,5,19,8 Mar. 2012,The Weekend Vortex,8.3,"2,523",0.0141
+Big Bang Theory,5,20,29 Mar. 2012,The Transporter Malfunction,8.2,"2,642",-0.1222
+Big Bang Theory,5,21,5 Apr. 2012,The Hawking Excitation,8.6,"2,975",0.4228
+Big Bang Theory,5,22,26 Apr. 2012,The Stag Convergence,7.8,"2,493",-0.6672
+Big Bang Theory,5,23,3 May 2012,The Launch Acceleration,8.2,"2,453",-0.1222
+Big Bang Theory,5,24,10 May 2012,The Countdown Reflection,8.6,"2,835",0.4228
+Big Bang Theory,6,1,27 Sep. 2012,The Date Night Variable,7.7,"3,362",-0.8034
+Big Bang Theory,6,2,4 Oct. 2012,The Decoupling Fluctuation,7.7,"2,590",-0.8034
+Big Bang Theory,6,3,11 Oct. 2012,The Higgs Boson Observation,8.0,"2,596",-0.3947
+Big Bang Theory,6,4,18 Oct. 2012,The Re-Entry Minimization,8.3,"2,760",0.0141
+Big Bang Theory,6,5,25 Oct. 2012,The Holographic Excitation,8.1,"2,559",-0.2584
+Big Bang Theory,6,6,1 Nov. 2012,The Extract Obliteration,7.9,"2,459",-0.5309
+Big Bang Theory,6,7,8 Nov. 2012,The Habitation Configuration,7.7,"2,421",-0.8034
+Big Bang Theory,6,8,15 Nov. 2012,The 43 Peculiarity,8.5,"2,862",0.2866
+Big Bang Theory,6,9,29 Nov. 2012,The Parking Spot Escalation,8.3,"2,755",0.0141
+Big Bang Theory,6,10,6 Dec. 2012,The Fish Guts Displacement,8.1,"2,585",-0.2584
+Big Bang Theory,6,11,13 Dec. 2012,The Santa Simulation,7.9,"2,481",-0.5309
+Big Bang Theory,6,12,3 Jan. 2013,The Egg Salad Equivalency,8.5,"2,834",0.2866
+Big Bang Theory,6,13,10 Jan. 2013,The Bakersfield Expedition,8.5,"2,833",0.2866
+Big Bang Theory,6,14,31 Jan. 2013,The Cooper/Kripke Inversion,7.9,"2,471",-0.5309
+Big Bang Theory,6,15,7 Feb. 2013,The Spoiler Alert Segmentation,8.3,"2,562",0.0141
+Big Bang Theory,6,16,14 Feb. 2013,The Tangible Affection Proof,8.0,"2,485",-0.3947
+Big Bang Theory,6,17,21 Feb. 2013,The Monster Isolation,7.7,"2,352",-0.8034
+Big Bang Theory,6,18,7 Mar. 2013,The Contractual Obligation Implementation,7.8,"2,422",-0.6672
+Big Bang Theory,6,19,14 Mar. 2013,The Closet Reconfiguration,8.1,"2,551",-0.2584
+Big Bang Theory,6,20,4 Apr. 2013,The Tenure Turbulence,8.1,"2,494",-0.2584
+Big Bang Theory,6,21,25 Apr. 2013,The Closure Alternative,8.1,"2,436",-0.2584
+Big Bang Theory,6,22,2 May 2013,The Proton Resurgence,8.0,"2,519",-0.3947
+Big Bang Theory,6,23,9 May 2013,The Love Spell Potential,8.1,"2,550",-0.2584
+Big Bang Theory,6,24,16 May 2013,The Bon Voyage Reaction,7.8,"2,416",-0.6672
+Big Bang Theory,7,1,26 Sep. 2013,The Hofstadter Insufficiency,7.9,"2,808",-0.5309
+Big Bang Theory,7,2,26 Sep. 2013,The Deception Verification,8.1,"2,743",-0.2584
+Big Bang Theory,7,3,3 Oct. 2013,The Scavenger Vortex,8.8,"3,299",0.6953
+Big Bang Theory,7,4,10 Oct. 2013,The Raiders Minimization,8.0,"2,491",-0.3947
+Big Bang Theory,7,5,17 Oct. 2013,The Workplace Proximity,7.7,"2,369",-0.8034
+Big Bang Theory,7,6,24 Oct. 2013,The Romance Resonance,8.5,"2,831",0.2866
+Big Bang Theory,7,7,7 Nov. 2013,The Proton Displacement,7.8,"2,409",-0.6672
+Big Bang Theory,7,8,14 Nov. 2013,The Itchy Brain Simulation,7.6,"2,403",-0.9397
+Big Bang Theory,7,9,21 Nov. 2013,The Thanksgiving Decoupling,8.9,"3,366",0.8315
+Big Bang Theory,7,10,5 Dec. 2013,The Discovery Dissipation,7.7,"2,272",-0.8034
+Big Bang Theory,7,11,12 Dec. 2013,The Cooper Extraction,8.2,"2,545",-0.1222
+Big Bang Theory,7,12,2 Jan. 2014,The Hesitation Ramification,7.5,"2,358",-1.0759
+Big Bang Theory,7,13,9 Jan. 2014,The Occupation Recalibration,7.6,"2,337",-0.9397
+Big Bang Theory,7,14,30 Jan. 2014,The Convention Conundrum,8.0,"2,509",-0.3947
+Big Bang Theory,7,15,6 Feb. 2014,The Locomotive Manipulation,8.3,"2,711",0.0141
+Big Bang Theory,7,16,27 Feb. 2014,The Table Polarization,7.7,"2,238",-0.8034
+Big Bang Theory,7,17,6 Mar. 2014,The Friendship Turbulence,7.5,"2,216",-1.0759
+Big Bang Theory,7,18,13 Mar. 2014,The Mommy Observation,7.5,"2,273",-1.0759
+Big Bang Theory,7,19,3 Apr. 2014,The Indecision Amalgamation,8.2,"2,483",-0.1222
+Big Bang Theory,7,20,10 Apr. 2014,The Relationship Diremption,8.1,"2,319",-0.2584
+Big Bang Theory,7,21,24 Apr. 2014,The Anything Can Happen Recurrence,7.6,"2,191",-0.9397
+Big Bang Theory,7,22,1 May 2014,The Proton Transmogrification,7.7,"2,305",-0.8034
+Big Bang Theory,7,23,8 May 2014,The Gorilla Dissolution,7.9,"2,308",-0.5309
+Big Bang Theory,7,24,15 May 2014,The Status Quo Combustion,8.1,"2,377",-0.2584
+Big Bang Theory,8,1,22 Sep. 2014,The Locomotion Interruption,7.2,"2,860",-1.4846
+Big Bang Theory,8,2,22 Sep. 2014,The Junior Professor Solution,7.6,"2,630",-0.9397
+Big Bang Theory,8,3,29 Sep. 2014,The First Pitch Insufficiency,7.0,"2,554",-1.7571
+Big Bang Theory,8,4,6 Oct. 2014,The Hook-up Reverberation,7.2,"2,401",-1.4846
+Big Bang Theory,8,5,13 Oct. 2014,The Focus Attenuation,7.5,"2,444",-1.0759
+Big Bang Theory,8,6,20 Oct. 2014,The Expedition Approximation,7.2,"2,343",-1.4846
+Big Bang Theory,8,7,30 Oct. 2014,The Misinterpretation Agitation,7.8,"2,583",-0.6672
+Big Bang Theory,8,8,6 Nov. 2014,The Prom Equivalency,8.0,"2,554",-0.3947
+Big Bang Theory,8,9,13 Nov. 2014,The Septum Deviation,7.5,"2,260",-1.0759
+Big Bang Theory,8,10,20 Nov. 2014,The Champagne Reflection,7.0,"2,342",-1.7571
+Big Bang Theory,8,11,11 Dec. 2014,The Clean Room Infiltration,7.4,"2,227",-1.2121
+Big Bang Theory,8,12,8 Jan. 2015,The Space Probe Disintegration,7.3,"2,145",-1.3484
+Big Bang Theory,8,13,29 Jan. 2015,The Anxiety Optimization,7.5,"2,140",-1.0759
+Big Bang Theory,8,14,5 Feb. 2015,The Troll Manifestation,8.0,"2,341",-0.3947
+Big Bang Theory,8,15,19 Feb. 2015,The Comic Book Store Regeneration,8.1,"2,329",-0.2584
+Big Bang Theory,8,16,26 Feb. 2015,The Intimacy Acceleration,7.9,"2,227",-0.5309
+Big Bang Theory,8,17,5 Mar. 2015,The Colonization Application,7.6,"2,106",-0.9397
+Big Bang Theory,8,18,12 Mar. 2015,The Leftover Thermalization,7.4,"2,076",-1.2121
+Big Bang Theory,8,19,2 Apr. 2015,The Skywalker Incursion,7.6,"2,087",-0.9397
+Big Bang Theory,8,20,9 Apr. 2015,The Fortification Implementation,7.5,"2,068",-1.0759
+Big Bang Theory,8,21,16 Apr. 2015,The Communication Deterioration,7.1,"2,042",-1.6209
+Big Bang Theory,8,22,23 Apr. 2015,The Graduation Transmission,7.3,"2,063",-1.3484
+Big Bang Theory,8,23,30 Apr. 2015,The Maternal Combustion,7.5,"2,108",-1.0759
+Big Bang Theory,8,24,7 May 2015,The Commitment Determination,8.0,"2,503",-0.3947
+Big Bang Theory,9,1,21 Sep. 2015,The Matrimonial Momentum,6.8,"2,820",-2.0296
+Big Bang Theory,9,2,28 Sep. 2015,The Separation Oscillation,7.4,"2,322",-1.2121
+Big Bang Theory,9,3,5 Oct. 2015,The Bachelor Party Corrosion,7.8,"2,354",-0.6672
+Big Bang Theory,9,4,12 Oct. 2015,The 2003 Approximation,7.5,"2,198",-1.0759
+Big Bang Theory,9,5,19 Oct. 2015,The Perspiration Implementation,7.5,"2,118",-1.0759
+Big Bang Theory,9,6,26 Oct. 2015,The Helium Insufficiency,7.2,"2,171",-1.4846
+Big Bang Theory,9,7,5 Nov. 2015,The Spock Resonance,8.0,"2,231",-0.3947
+Big Bang Theory,9,8,12 Nov. 2015,The Mystery Date Observation,8.0,"2,253",-0.3947
+Big Bang Theory,9,9,19 Nov. 2015,The Platonic Permutation,7.9,"2,183",-0.5309
+Big Bang Theory,9,10,10 Dec. 2015,The Earworm Reverberation,8.4,"2,548",0.1503
+Big Bang Theory,9,11,17 Dec. 2015,The Opening Night Excitation,9.1,"4,025",1.1040
+Big Bang Theory,9,12,7 Jan. 2016,The Sales Call Sublimation,7.5,"1,998",-1.0759
+Big Bang Theory,9,13,14 Jan. 2016,The Empathy Optimization,7.5,"2,006",-1.0759
+Big Bang Theory,9,14,4 Feb. 2016,The Meemaw Materialization,7.6,"2,022",-0.9397
+Big Bang Theory,9,15,11 Feb. 2016,The Valentino Submergence,7.5,"1,989",-1.0759
+Big Bang Theory,9,16,18 Feb. 2016,The Positive Negative Reaction,7.4,"2,062",-1.2121
+Big Bang Theory,9,17,25 Feb. 2016,The Celebration Experimentation,7.5,"2,068",-1.0759
+Big Bang Theory,9,18,10 Mar. 2016,The Application Deterioration,7.6,"1,960",-0.9397
+Big Bang Theory,9,19,31 Mar. 2016,The Solder Excursion Diversion,7.5,"1,878",-1.0759
+Big Bang Theory,9,20,7 Apr. 2016,The Big Bear Precipitation,7.5,"1,843",-1.0759
+Big Bang Theory,9,21,21 Apr. 2016,The Viewing Party Combustion,7.5,"1,853",-1.0759
+Big Bang Theory,9,22,28 Apr. 2016,The Fermentation Bifurcation,7.5,"1,785",-1.0759
+Big Bang Theory,9,23,5 May 2016,The Line Substitution Solution,7.4,"1,795",-1.2121
+Big Bang Theory,9,24,12 May 2016,The Convergence Convergence,7.8,"2,075",-0.6672
+Big Bang Theory,10,0,28 Aug. 2017,Recap,7.6,100,-0.9397
+Big Bang Theory,10,1,19 Sep. 2016,The Conjugal Conjecture,7.7,"2,539",-0.8034
+Big Bang Theory,10,2,26 Sep. 2016,The Military Miniaturization,7.4,"1,996",-1.2121
+Big Bang Theory,10,3,3 Oct. 2016,The Dependence Transcendence,7.3,"1,888",-1.3484
+Big Bang Theory,10,4,10 Oct. 2016,The Cohabitation Experimentation,8.0,"2,108",-0.3947
+Big Bang Theory,10,5,17 Oct. 2016,The Hot Tub Contamination,7.5,"1,865",-1.0759
+Big Bang Theory,10,6,27 Oct. 2016,The Fetal Kick Catalyst,7.4,"1,893",-1.2121
+Big Bang Theory,10,7,3 Nov. 2016,The Veracity Elasticity,8.0,"2,016",-0.3947
+Big Bang Theory,10,8,10 Nov. 2016,The Brain Bowl Incubation,8.1,"2,109",-0.2584
+Big Bang Theory,10,9,17 Nov. 2016,The Geology Elevation,7.5,"1,804",-1.0759
+Big Bang Theory,10,10,1 Dec. 2016,The Property Division Collision,7.4,"1,798",-1.2121
+Big Bang Theory,10,11,15 Dec. 2016,The Birthday Synchronicity,7.6,"1,849",-0.9397
+Big Bang Theory,10,12,5 Jan. 2017,The Holiday Summation,7.3,"1,864",-1.3484
+Big Bang Theory,10,13,19 Jan. 2017,The Romance Recalibration,7.0,"1,777",-1.7571
+Big Bang Theory,10,14,2 Feb. 2017,The Emotion Detection Automation,7.3,"1,732",-1.3484
+Big Bang Theory,10,15,9 Feb. 2017,The Locomotion Reverberation,7.3,"1,714",-1.3484
+Big Bang Theory,10,16,16 Feb. 2017,The Allowance Evaporation,7.2,"1,647",-1.4846
+Big Bang Theory,10,17,23 Feb. 2017,The Comic-Con Conundrum,7.5,"1,685",-1.0759
+Big Bang Theory,10,18,9 Mar. 2017,The Escape Hatch Identification,7.2,"1,640",-1.4846
+Big Bang Theory,10,19,30 Mar. 2017,The Collaboration Fluctuation,7.1,"1,677",-1.6209
+Big Bang Theory,10,20,6 Apr. 2017,The Recollection Dissipation,7.2,"1,624",-1.4846
+Big Bang Theory,10,21,13 Apr. 2017,The Separation Agitation,7.3,"1,664",-1.3484
+Big Bang Theory,10,22,27 Apr. 2017,The Cognition Regeneration,6.8,"1,589",-2.0296
+Big Bang Theory,10,23,4 May 2017,The Gyroscopic Collapse,7.1,"1,594",-1.6209
+Big Bang Theory,10,24,11 May 2017,The Long Distance Dissonance,8.6,"2,355",0.4228
+Big Bang Theory,11,1,25 Sep. 2017,The Proposal Proposal,7.6,"2,114",-0.9397
+Big Bang Theory,11,2,2 Oct. 2017,The Retraction Reaction,7.3,"1,828",-1.3484
+Big Bang Theory,11,3,9 Oct. 2017,The Relaxation Integration,7.0,"1,708",-1.7571
+Big Bang Theory,11,4,16 Oct. 2017,The Explosion Implosion,7.1,"1,655",-1.6209
+Big Bang Theory,11,5,23 Oct. 2017,The Collaboration Contamination,7.4,"1,665",-1.2121
+Big Bang Theory,11,6,2 Nov. 2017,The Proton Regeneration,7.2,"1,644",-1.4846
+Big Bang Theory,11,7,9 Nov. 2017,The Geology Methodology,7.4,"1,659",-1.2121
+Big Bang Theory,11,8,16 Nov. 2017,The Tesla Recoil,7.2,"1,584",-1.4846
+Big Bang Theory,11,9,30 Nov. 2017,The Bitcoin Entanglement,7.8,"1,722",-0.6672
+Big Bang Theory,11,10,7 Dec. 2017,The Confidence Erosion,7.4,"1,588",-1.2121
+Big Bang Theory,11,11,14 Dec. 2017,The Celebration Reverberation,7.1,"1,540",-1.6209
+Big Bang Theory,11,12,4 Jan. 2018,The Matrimonial Metric,7.5,"1,569",-1.0759
+Big Bang Theory,11,13,11 Jan. 2018,The Solo Oscillation,7.3,"1,558",-1.3484
+Big Bang Theory,11,14,18 Jan. 2018,The Separation Triangulation,7.3,"1,596",-1.3484
+Big Bang Theory,11,15,1 Feb. 2018,The Novelization Correlation,7.5,"1,543",-1.0759
+Big Bang Theory,11,16,1 Mar. 2018,The Neonatal Nomenclature,7.2,"1,486",-1.4846
+Big Bang Theory,11,17,8 Mar. 2018,The Athenaeum Allocation,6.9,"1,502",-1.8934
+Big Bang Theory,11,18,29 Mar. 2018,The Gates Excitation,7.2,"1,514",-1.4846
+Big Bang Theory,11,19,5 Apr. 2018,The Tenant Disassociation,7.3,"1,486",-1.3484
+Big Bang Theory,11,20,12 Apr. 2018,The Reclusive Potential,7.2,"1,488",-1.4846
+Big Bang Theory,11,21,19 Apr. 2018,The Comet Polarization,7.5,"1,463",-1.0759
+Big Bang Theory,11,22,26 Apr. 2018,The Monetary Insufficiency,7.3,"1,439",-1.3484
+Big Bang Theory,11,23,3 May 2018,The Sibling Realignment,7.7,"1,547",-0.8034
+Big Bang Theory,11,24,10 May 2018,The Bow Tie Asymmetry,9.0,"2,782",0.9678
+Big Bang Theory,12,1,24 Sep. 2018,The Conjugal Configuration,7.2,"1,775",-1.4846
+Big Bang Theory,12,2,27 Sep. 2018,The Wedding Gift Wormhole,7.6,"1,649",-0.9397
+Big Bang Theory,12,3,4 Oct. 2018,The Procreation Calculation,7.2,"1,568",-1.4846
+Big Bang Theory,12,4,11 Oct. 2018,The Tam Turbulence,7.1,"1,510",-1.6209
+Big Bang Theory,12,5,18 Oct. 2018,The Planetarium Collision,6.8,"1,496",-2.0296
+Big Bang Theory,12,6,25 Oct. 2018,The Imitation Perturbation,8.3,"1,846",0.0141
+Big Bang Theory,12,7,1 Nov. 2018,The Grant Allocation Derivation,7.4,"1,464",-1.2121
+Big Bang Theory,12,8,8 Nov. 2018,The Consummation Deviation,7.4,"1,495",-1.2121
+Big Bang Theory,12,9,15 Nov. 2018,The Citation Negation,7.3,"1,479",-1.3484
+Big Bang Theory,12,10,6 Dec. 2018,The VCR Illumination,7.5,"1,522",-1.0759
+Big Bang Theory,12,11,3 Jan. 2019,The Paintball Scattering,7.3,"1,450",-1.3484
+Big Bang Theory,12,12,10 Jan. 2019,The Propagation Proposition,7.2,"1,422",-1.4846
+Big Bang Theory,12,13,17 Jan. 2019,The Confirmation Polarization,7.2,"1,425",-1.4846
+Big Bang Theory,12,14,31 Jan. 2019,The Meteorite Manifestation,7.1,"1,426",-1.6209
+Big Bang Theory,12,15,7 Feb. 2019,The Donation Oscillation,7.5,"1,458",-1.0759
+Big Bang Theory,12,16,21 Feb. 2019,The D & D Vortex,8.0,"1,623",-0.3947
+Big Bang Theory,12,17,7 Mar. 2019,The Conference Valuation,7.1,"1,421",-1.6209
+Big Bang Theory,12,18,4 Apr. 2019,The Laureate Accumulation,7.2,"1,383",-1.4846
+Big Bang Theory,12,19,18 Apr. 2019,The Inspiration Deprivation,7.0,"1,392",-1.7571
+Big Bang Theory,12,20,25 Apr. 2019,The Decision Reverberation,7.2,"1,384",-1.4846
+Big Bang Theory,12,21,2 May 2019,The Plagiarism Schism,7.3,"1,418",-1.3484
+Big Bang Theory,12,22,9 May 2019,The Maternal Conclusion,8.0,"1,794",-0.3947
+Big Bang Theory,12,23,16 May 2019,The Change Constant,9.2,"3,434",1.2403
+Big Bang Theory,12,24,16 May 2019,The Stockholm Syndrome,9.6,"6,509",1.7853
+Dexter,1,1,1 Oct. 2006,Dexter,8.8,"7,053",0.6953
+Dexter,1,2,8 Oct. 2006,Crocodile,8.3,"4,874",0.0141
+Dexter,1,3,15 Oct. 2006,Popping Cherry,8.4,"4,560",0.1503
+Dexter,1,4,22 Oct. 2006,Let's Give the Boy a Hand,8.7,"4,468",0.5591
+Dexter,1,5,29 Oct. 2006,Love American Style,8.6,"4,283",0.4228
+Dexter,1,6,5 Nov. 2006,Return to Sender,9.0,"4,475",0.9678
+Dexter,1,7,12 Nov. 2006,Circle of Friends,8.8,"4,170",0.6953
+Dexter,1,8,19 Nov. 2006,Shrink Wrap,9.0,"4,474",0.9678
+Dexter,1,9,26 Nov. 2006,Father Knows Best,8.7,"4,058",0.5591
+Dexter,1,10,3 Dec. 2006,Seeing Red,9.2,"4,592",1.2403
+Dexter,1,11,10 Dec. 2006,Truth Be Told,9.3,"4,670",1.3765
+Dexter,1,12,17 Dec. 2006,Born Free,9.6,"7,250",1.7853
+Dexter,2,1,30 Sep. 2007,It's Alive!,8.8,"4,174",0.6953
+Dexter,2,2,7 Oct. 2007,Waiting to Exhale,8.6,"3,779",0.4228
+Dexter,2,3,14 Oct. 2007,An Inconvenient Lie,8.7,"3,739",0.5591
+Dexter,2,4,21 Oct. 2007,See-Through,8.5,"3,568",0.2866
+Dexter,2,5,28 Oct. 2007,The Dark Defender,8.7,"3,699",0.5591
+Dexter,2,6,4 Nov. 2007,"Dex, Lies, and Videotape",8.6,"3,584",0.4228
+Dexter,2,7,11 Nov. 2007,"That Night, a Forest Grew",8.8,"3,642",0.6953
+Dexter,2,8,18 Nov. 2007,Morning Comes,9.1,"3,781",1.1040
+Dexter,2,9,25 Nov. 2007,Resistance Is Futile,9.4,"4,197",1.5128
+Dexter,2,10,2 Dec. 2007,There's Something About Harry,9.0,"3,674",0.9678
+Dexter,2,11,9 Dec. 2007,Left Turn Ahead,9.0,"3,675",0.9678
+Dexter,2,12,16 Dec. 2007,The British Invasion,9.2,"4,490",1.2403
+Dexter,3,1,28 Sep. 2008,Our Father,8.3,"3,575",0.0141
+Dexter,3,2,5 Oct. 2008,Finding Freebo,8.5,"3,335",0.2866
+Dexter,3,3,12 Oct. 2008,The Lion Sleeps Tonight,8.2,"3,220",-0.1222
+Dexter,3,4,19 Oct. 2008,All in the Family,8.2,"3,184",-0.1222
+Dexter,3,5,26 Oct. 2008,Turning Biminese,8.5,"3,158",0.2866
+Dexter,3,6,2 Nov. 2008,Sí Se Puede,8.3,"3,125",0.0141
+Dexter,3,7,9 Nov. 2008,Easy As Pie,8.5,"3,224",0.2866
+Dexter,3,8,16 Nov. 2008,The Damage A Man Can Do,8.6,"3,166",0.4228
+Dexter,3,9,23 Nov. 2008,About Last Night,8.8,"3,218",0.6953
+Dexter,3,10,30 Nov. 2008,Go Your Own Way,9.1,"3,417",1.1040
+Dexter,3,11,7 Dec. 2008,I Had A Dream,8.9,"3,261",0.8315
+Dexter,3,12,14 Dec. 2008,Do You Take Dexter Morgan?,8.9,"3,537",0.8315
+Dexter,4,1,27 Sep. 2009,Living The Dream,8.7,"3,642",0.5591
+Dexter,4,2,4 Oct. 2009,Remains To Be Seen,8.7,"3,230",0.5591
+Dexter,4,3,11 Oct. 2009,Blinded By The Light,8.3,"3,124",0.0141
+Dexter,4,4,18 Oct. 2009,Dex Takes A Holiday,9.2,"3,688",1.2403
+Dexter,4,5,25 Oct. 2009,Dirty Harry,9.0,"3,348",0.9678
+Dexter,4,6,1 Nov. 2009,If I Had A Hammer,8.7,"3,166",0.5591
+Dexter,4,7,8 Nov. 2009,Slack Tide,8.5,"3,106",0.2866
+Dexter,4,8,15 Nov. 2009,Road Kill,8.6,"3,114",0.4228
+Dexter,4,9,22 Nov. 2009,Hungry Man,9.4,"4,393",1.5128
+Dexter,4,10,29 Nov. 2009,Lost Boys,9.2,"3,639",1.2403
+Dexter,4,11,6 Dec. 2009,"Hello, Dexter Morgan",9.5,"4,746",1.6490
+Dexter,4,12,13 Dec. 2009,The Getaway,9.8,"10,271",2.0578
+Dexter,5,1,26 Sep. 2010,My Bad,8.9,"4,097",0.8315
+Dexter,5,2,3 Oct. 2010,Hello Bandit,8.3,"3,101",0.0141
+Dexter,5,3,10 Oct. 2010,Practically Perfect,8.5,"3,043",0.2866
+Dexter,5,4,17 Oct. 2010,Beauty And The Beast,8.5,"3,027",0.2866
+Dexter,5,5,24 Oct. 2010,First Blood,8.1,"2,974",-0.2584
+Dexter,5,6,31 Oct. 2010,Everything Is Illumenated,8.8,"3,241",0.6953
+Dexter,5,7,7 Nov. 2010,Circle Us,8.5,"2,963",0.2866
+Dexter,5,8,14 Nov. 2010,Take It!,8.9,"3,143",0.8315
+Dexter,5,9,21 Nov. 2010,Teenage Wasteland,9.0,"3,277",0.9678
+Dexter,5,10,28 Nov. 2010,In The Beginning,9.0,"3,285",0.9678
+Dexter,5,11,5 Dec. 2010,Hop A Freighter,8.9,"3,134",0.8315
+Dexter,5,12,12 Dec. 2010,The Big One,8.9,"3,824",0.8315
+Dexter,6,1,2 Oct. 2011,Those Kinds of Things,8.6,"4,151",0.4228
+Dexter,6,2,9 Oct. 2011,Once Upon a Time...,8.1,"3,171",-0.2584
+Dexter,6,3,16 Oct. 2011,Smokey and the Bandit,8.2,"3,049",-0.1222
+Dexter,6,4,23 Oct. 2011,A Horse of a Different Color,8.5,"3,059",0.2866
+Dexter,6,5,30 Oct. 2011,The Angel of Death,8.1,"2,985",-0.2584
+Dexter,6,6,6 Nov. 2011,Just Let Go,8.5,"3,091",0.2866
+Dexter,6,7,13 Nov. 2011,Nebraska,7.9,"3,287",-0.5309
+Dexter,6,8,20 Nov. 2011,Sin of Omission,7.9,"2,918",-0.5309
+Dexter,6,9,27 Nov. 2011,Get Gellar,8.5,"3,235",0.2866
+Dexter,6,10,4 Dec. 2011,Ricochet Rabbit,8.1,"2,916",-0.2584
+Dexter,6,11,11 Dec. 2011,Talk to the Hand,8.4,"3,042",0.1503
+Dexter,6,12,18 Dec. 2011,This Is the Way the World Ends,9.2,"5,002",1.2403
+Dexter,7,1,30 Sep. 2012,Are You...?,9.5,"7,427",1.6490
+Dexter,7,2,7 Oct. 2012,Sunshine and Frosty Swirl,8.8,"3,852",0.6953
+Dexter,7,3,14 Oct. 2012,Buck the System,8.7,"3,475",0.5591
+Dexter,7,4,21 Oct. 2012,Run,8.9,"3,586",0.8315
+Dexter,7,5,28 Oct. 2012,Swim Deep,8.6,"3,210",0.4228
+Dexter,7,6,4 Nov. 2012,Do the Wrong Thing,8.3,"3,255",0.0141
+Dexter,7,7,11 Nov. 2012,Chemistry,8.5,"3,215",0.2866
+Dexter,7,8,18 Nov. 2012,Argentina,8.9,"3,813",0.8315
+Dexter,7,9,25 Nov. 2012,Helter Skelter,8.6,"3,190",0.4228
+Dexter,7,10,2 Dec. 2012,The Dark...Whatever,8.5,"3,072",0.2866
+Dexter,7,11,9 Dec. 2012,Do You See What I See?,9.0,"3,424",0.9678
+Dexter,7,12,16 Dec. 2012,"Surprise, Motherf**ker!",9.3,"5,251",1.3765
+Dexter,8,1,30 Jun. 2013,A Beautiful Day,8.6,"4,693",0.4228
+Dexter,8,2,7 Jul. 2013,Every Silver Lining...,8.1,"3,379",-0.2584
+Dexter,8,3,14 Jul. 2013,What's Eating Dexter Morgan?,8.1,"3,246",-0.2584
+Dexter,8,4,21 Jul. 2013,Scar Tissue,8.1,"3,261",-0.2584
+Dexter,8,5,28 Jul. 2013,This Little Piggy,7.9,"3,136",-0.5309
+Dexter,8,6,4 Aug. 2013,A Little Reflection,7.8,"3,160",-0.6672
+Dexter,8,7,11 Aug. 2013,Dress Code,7.6,"3,263",-0.9397
+Dexter,8,8,18 Aug. 2013,Are We There Yet?,8.1,"3,521",-0.2584
+Dexter,8,9,25 Aug. 2013,Make Your Own Kind of Music,7.4,"3,451",-1.2121
+Dexter,8,10,8 Sep. 2013,Goodbye Miami,6.9,"3,895",-1.8934
+Dexter,8,11,15 Sep. 2013,Monkey in a Box,7.2,"4,160",-1.4846
+Dexter,8,12,22 Sep. 2013,Remember the Monsters?,4.6,"16,975",-5.0271
+Game Of Thrones,1,1,8 May 2011,Winter Is Coming,9.1,"39,103",1.1040
+Game Of Thrones,1,2,15 May 2011,The Kingsroad,8.8,"29,669",0.6953
+Game Of Thrones,1,3,1 May 2011,Lord Snow,8.7,"28,059",0.5591
+Game Of Thrones,1,4,8 May 2011,"Cripples, Bastards, and Broken Things",8.8,"26,625",0.6953
+Game Of Thrones,1,5,15 May 2011,The Wolf and the Lion,9.1,"27,703",1.1040
+Game Of Thrones,1,6,22 May 2011,A Golden Crown,9.2,"27,421",1.2403
+Game Of Thrones,1,7,29 May 2011,You Win or You Die,9.2,"27,907",1.2403
+Game Of Thrones,1,8,5 Jun. 2011,The Pointy End,9.0,"25,981",0.9678
+Game Of Thrones,1,9,12 Jun. 2011,Baelor,9.6,"36,646",1.7853
+Game Of Thrones,1,10,19 Jun. 2011,Fire and Blood,9.5,"32,154",1.6490
+Game Of Thrones,2,1,1 Apr. 2012,The North Remembers,8.8,"25,142",0.6953
+Game Of Thrones,2,2,8 Apr. 2012,The Night Lands,8.5,"23,757",0.2866
+Game Of Thrones,2,3,15 Apr. 2012,What Is Dead May Never Die,8.8,"23,478",0.6953
+Game Of Thrones,2,4,22 Apr. 2012,Garden of Bones,8.8,"22,709",0.6953
+Game Of Thrones,2,5,29 Apr. 2012,The Ghost of Harrenhal,8.8,"22,890",0.6953
+Game Of Thrones,2,6,6 May 2012,The Old Gods and the New,9.1,"23,912",1.1040
+Game Of Thrones,2,7,13 May 2012,A Man Without Honor,8.9,"23,296",0.8315
+Game Of Thrones,2,8,20 May 2012,The Prince of Winterfell,8.8,"23,012",0.6953
+Game Of Thrones,2,9,27 May 2012,Blackwater,9.7,"40,059",1.9215
+Game Of Thrones,2,10,3 Jun. 2012,Valar Morghulis,9.4,"28,402",1.5128
+Game Of Thrones,3,1,31 Mar. 2013,Valar Dohaeris,8.8,"25,091",0.6953
+Game Of Thrones,3,2,7 Apr. 2013,"Dark Wings, Dark Words",8.6,"22,744",0.4228
+Game Of Thrones,3,3,14 Apr. 2013,Walk of Punishment,8.9,"22,963",0.8315
+Game Of Thrones,3,4,21 Apr. 2013,And Now His Watch Is Ended,9.6,"31,261",1.7853
+Game Of Thrones,3,5,28 Apr. 2013,Kissed by Fire,9.0,"23,401",0.9678
+Game Of Thrones,3,6,5 May 2013,The Climb,8.8,"23,270",0.6953
+Game Of Thrones,3,7,12 May 2013,The Bear and the Maiden Fair,8.7,"22,506",0.5591
+Game Of Thrones,3,8,19 May 2013,Second Sons,9.0,"23,084",0.9678
+Game Of Thrones,3,9,2 Jun. 2013,The Rains of Castamere,9.9,"87,601",2.1940
+Game Of Thrones,3,10,9 Jun. 2013,Mhysa,9.2,"26,111",1.2403
+Game Of Thrones,4,1,6 Apr. 2014,Two Swords,9.1,"29,577",1.1040
+Game Of Thrones,4,2,13 Apr. 2014,The Lion and the Rose,9.7,"46,244",1.9215
+Game Of Thrones,4,3,20 Apr. 2014,Breaker of Chains,8.9,"24,980",0.8315
+Game Of Thrones,4,4,27 Apr. 2014,Oathkeeper,8.8,"24,007",0.6953
+Game Of Thrones,4,5,4 May 2014,First of His Name,8.7,"23,238",0.5591
+Game Of Thrones,4,6,11 May 2014,The Laws of Gods and Men,9.7,"42,712",1.9215
+Game Of Thrones,4,7,18 May 2014,Mockingbird,9.1,"25,863",1.1040
+Game Of Thrones,4,8,1 Jun. 2014,The Mountain and the Viper,9.7,"46,350",1.9215
+Game Of Thrones,4,9,8 Jun. 2014,The Watchers on the Wall,9.6,"39,071",1.7853
+Game Of Thrones,4,10,15 Jun. 2014,The Children,9.7,"38,380",1.9215
+Game Of Thrones,5,1,12 Apr. 2015,The Wars to Come,8.5,"26,336",0.2866
+Game Of Thrones,5,2,19 Apr. 2015,The House of Black and White,8.5,"23,271",0.2866
+Game Of Thrones,5,3,26 Apr. 2015,High Sparrow,8.5,"22,550",0.2866
+Game Of Thrones,5,4,3 May 2015,Sons of the Harpy,8.7,"23,153",0.5591
+Game Of Thrones,5,5,10 May 2015,Kill the Boy,8.6,"23,434",0.4228
+Game Of Thrones,5,6,17 May 2015,"Unbowed, Unbent, Unbroken",8.0,"26,526",-0.3947
+Game Of Thrones,5,7,24 May 2015,The Gift,9.0,"25,584",0.9678
+Game Of Thrones,5,8,31 May 2015,Hardhome,9.9,"87,696",2.1940
+Game Of Thrones,5,9,7 Jun. 2015,The Dance of Dragons,9.5,"38,449",1.6490
+Game Of Thrones,5,10,14 Jun. 2015,Mother's Mercy,9.1,"37,285",1.1040
+Game Of Thrones,6,1,24 Apr. 2016,The Red Woman,8.5,"36,156",0.2866
+Game Of Thrones,6,2,1 May 2016,Home,9.4,"42,519",1.5128
+Game Of Thrones,6,3,8 May 2016,Oathbreaker,8.7,"30,355",0.5591
+Game Of Thrones,6,4,15 May 2016,Book of the Stranger,9.1,"32,666",1.1040
+Game Of Thrones,6,5,22 May 2016,The Door,9.7,"63,998",1.9215
+Game Of Thrones,6,6,29 May 2016,Blood of My Blood,8.4,"30,164",0.1503
+Game Of Thrones,6,7,5 Jun. 2016,The Broken Man,8.6,"29,302",0.4228
+Game Of Thrones,6,8,12 Jun. 2016,No One,8.4,"33,345",0.1503
+Game Of Thrones,6,9,19 Jun. 2016,Battle of the Bastards,9.9,"186,069",2.1940
+Game Of Thrones,6,10,26 Jun. 2016,The Winds of Winter,9.9,"129,513",2.1940
+Game Of Thrones,7,1,16 Jul. 2017,Dragonstone,8.6,"46,622",0.4228
+Game Of Thrones,7,2,23 Jul. 2017,Stormborn,8.9,"40,234",0.8315
+Game Of Thrones,7,3,30 Jul. 2017,The Queen's Justice,9.2,"41,938",1.2403
+Game Of Thrones,7,4,6 Aug. 2017,The Spoils of War,9.8,"79,502",2.0578
+Game Of Thrones,7,5,13 Aug. 2017,Eastwatch,8.8,"40,015",0.6953
+Game Of Thrones,7,6,20 Aug. 2017,Beyond the Wall,9.0,"58,394",0.9678
+Game Of Thrones,7,7,27 Aug. 2017,The Dragon and the Wolf,9.4,"57,922",1.5128
+Game Of Thrones,8,1,14 Apr. 2019,Winterfell,7.5,"122,583",-1.0759
+Game Of Thrones,8,2,21 Apr. 2019,A Knight of the Seven Kingdoms,7.8,"120,753",-0.6672
+Game Of Thrones,8,3,28 Apr. 2019,The Long Night,7.5,"201,317",-1.0759
+Game Of Thrones,8,4,5 May 2019,The Last of the Starks,5.5,"153,680",-3.8008
+Game Of Thrones,8,5,12 May 2019,The Bells,6.0,"178,971",-3.1196
+Game Of Thrones,8,6,19 May 2019,The Iron Throne,4.1,"222,651",-5.7083
+How I Met Your Mother,1,1,19 Sep. 2005,Pilot,8.5,"4,988",0.2866
+How I Met Your Mother,1,2,26 Sep. 2005,Purple Giraffe,8.2,"3,747",-0.1222
+How I Met Your Mother,1,3,3 Oct. 2005,The Sweet Taste of Liberty,8.2,"3,553",-0.1222
+How I Met Your Mother,1,4,10 Oct. 2005,Return of the Shirt,8.0,"3,335",-0.3947
+How I Met Your Mother,1,5,17 Oct. 2005,Okay Awesome,8.3,"3,452",0.0141
+How I Met Your Mother,1,6,24 Oct. 2005,The Slutty Pumpkin,8.1,"3,330",-0.2584
+How I Met Your Mother,1,7,7 Nov. 2005,Matchmaker,7.7,"3,131",-0.8034
+How I Met Your Mother,1,8,14 Nov. 2005,The Duel,8.2,"3,094",-0.1222
+How I Met Your Mother,1,9,21 Nov. 2005,Belly Full of Turkey,8.1,"3,106",-0.2584
+How I Met Your Mother,1,10,28 Nov. 2005,The Pineapple Incident,9.2,"4,720",1.2403
+How I Met Your Mother,1,11,19 Dec. 2005,The Limo,8.3,"3,231",0.0141
+How I Met Your Mother,1,12,9 Jan. 2006,The Wedding,8.1,"3,028",-0.2584
+How I Met Your Mother,1,13,23 Jan. 2006,"Drumroll, Please",8.7,"3,426",0.5591
+How I Met Your Mother,1,14,6 Feb. 2006,"Zip, Zip, Zip",8.2,"2,945",-0.1222
+How I Met Your Mother,1,15,27 Feb. 2006,Game Night,9.1,"3,833",1.1040
+How I Met Your Mother,1,16,6 Mar. 2006,Cupcake,7.9,"2,842",-0.5309
+How I Met Your Mother,1,17,20 Mar. 2006,Life Among the Gorillas,7.7,"2,825",-0.8034
+How I Met Your Mother,1,18,10 Apr. 2006,Nothing Good Happens After 2 AM,8.5,"3,103",0.2866
+How I Met Your Mother,1,19,24 Apr. 2006,Mary the Paralegal,8.8,"3,380",0.6953
+How I Met Your Mother,1,20,1 May 2006,Best Prom Ever,7.9,"2,825",-0.5309
+How I Met Your Mother,1,21,8 May 2006,Milk,8.1,"2,832",-0.2584
+How I Met Your Mother,1,22,15 May 2006,Come On,8.9,"3,498",0.8315
+How I Met Your Mother,2,1,18 Sep. 2006,Where Were We?,8.2,"2,820",-0.1222
+How I Met Your Mother,2,2,25 Sep. 2006,The Scorpion and the Toad,8.2,"2,756",-0.1222
+How I Met Your Mother,2,3,1 Oct. 2006,Brunch,8.5,"2,863",0.2866
+How I Met Your Mother,2,4,9 Oct. 2006,"Ted Mosby, Architect",8.8,"3,243",0.6953
+How I Met Your Mother,2,5,16 Oct. 2006,World's Greatest Couple,8.8,"3,067",0.6953
+How I Met Your Mother,2,6,23 Oct. 2006,Aldrin Justice,8.1,"2,754",-0.2584
+How I Met Your Mother,2,7,6 Nov. 2006,Swarley,9.0,"3,845",0.9678
+How I Met Your Mother,2,8,13 Nov. 2006,Atlantic City,8.0,"2,687",-0.3947
+How I Met Your Mother,2,9,20 Nov. 2006,Slap Bet,9.5,"5,633",1.6490
+How I Met Your Mother,2,10,27 Nov. 2006,Single Stamina,8.2,"2,748",-0.1222
+How I Met Your Mother,2,11,11 Dec. 2006,How Lily Stole Christmas,8.1,"2,721",-0.2584
+How I Met Your Mother,2,12,8 Jan. 2007,First Time in New York,8.2,"2,800",-0.1222
+How I Met Your Mother,2,13,22 Jan. 2007,Columns,8.0,"2,590",-0.3947
+How I Met Your Mother,2,14,5 Feb. 2007,Monday Night Football,8.4,"2,775",0.1503
+How I Met Your Mother,2,15,5 Feb. 2007,Lucky Penny,8.4,"2,712",0.1503
+How I Met Your Mother,2,16,19 Feb. 2007,Stuff,8.5,"2,841",0.2866
+How I Met Your Mother,2,17,26 Feb. 2007,"Arrivederci, Fiero",8.3,"2,802",0.0141
+How I Met Your Mother,2,18,19 Mar. 2007,Moving Day,8.1,"2,588",-0.2584
+How I Met Your Mother,2,19,9 Apr. 2007,Bachelor Party,8.4,"2,718",0.1503
+How I Met Your Mother,2,20,20 Apr. 2007,Showdown,8.9,"2,978",0.8315
+How I Met Your Mother,2,21,7 May 2007,Something Borrowed,8.8,"2,817",0.6953
+How I Met Your Mother,2,22,14 May 2007,Something Blue,8.8,"2,870",0.6953
+How I Met Your Mother,3,1,24 Sep. 2007,Wait for It,8.3,"2,870",0.0141
+How I Met Your Mother,3,2,1 Oct. 2007,We're Not from Here,7.7,"2,542",-0.8034
+How I Met Your Mother,3,3,8 Oct. 2007,Third Wheel,8.1,"2,643",-0.2584
+How I Met Your Mother,3,4,15 Oct. 2007,Little Boys,7.8,"2,539",-0.6672
+How I Met Your Mother,3,5,22 Oct. 2007,How I Met Everyone Else,9.0,"3,513",0.9678
+How I Met Your Mother,3,6,29 Oct. 2007,I'm Not That Guy,8.1,"2,514",-0.2584
+How I Met Your Mother,3,7,5 Nov. 2007,Dowisetrepla,8.0,"2,555",-0.3947
+How I Met Your Mother,3,8,12 Nov. 2007,Spoiler Alert,9.1,"3,500",1.1040
+How I Met Your Mother,3,9,19 Nov. 2007,Slapsgiving,9.0,"3,365",0.9678
+How I Met Your Mother,3,10,26 Nov. 2007,The Yips,8.0,"2,581",-0.3947
+How I Met Your Mother,3,11,10 Dec. 2007,The Platinum Rule,8.5,"2,689",0.2866
+How I Met Your Mother,3,12,17 Mar. 2008,No Tomorrow,8.2,"2,604",-0.1222
+How I Met Your Mother,3,13,24 Mar. 2008,Ten Sessions,8.8,"3,109",0.6953
+How I Met Your Mother,3,14,31 Mar. 2008,The Bracket,8.7,"2,727",0.5591
+How I Met Your Mother,3,15,14 Apr. 2008,The Chain of Screaming,8.0,"2,495",-0.3947
+How I Met Your Mother,3,16,21 Apr. 2008,Sandcastles in the Sand,8.2,"2,737",-0.1222
+How I Met Your Mother,3,17,28 Apr. 2008,The Goat,8.2,"2,508",-0.1222
+How I Met Your Mother,3,18,5 May 2008,Rebound Bro,8.1,"2,480",-0.2584
+How I Met Your Mother,3,19,12 May 2008,Everything Must Go,7.8,"2,487",-0.6672
+How I Met Your Mother,3,20,19 May 2008,Miracles,8.7,"2,704",0.5591
+How I Met Your Mother,4,1,22 Sep. 2008,Do I Know You?,8.6,"2,890",0.4228
+How I Met Your Mother,4,2,29 Sep. 2008,The Best Burger in New York,8.5,"3,015",0.2866
+How I Met Your Mother,4,3,6 Oct. 2008,I Heart NJ,7.7,"2,481",-0.8034
+How I Met Your Mother,4,4,13 Oct. 2008,Intervention,8.8,"2,950",0.6953
+How I Met Your Mother,4,5,20 Oct. 2008,Shelter Island,8.3,"2,579",0.0141
+How I Met Your Mother,4,6,3 Nov. 2008,Happily Ever After,8.0,"2,467",-0.3947
+How I Met Your Mother,4,7,10 Nov. 2008,Not a Father's Day,7.9,"2,414",-0.5309
+How I Met Your Mother,4,8,17 Nov. 2008,Woooo!,8.1,"2,587",-0.2584
+How I Met Your Mother,4,9,24 Nov. 2008,The Naked Man,9.2,"4,124",1.2403
+How I Met Your Mother,4,10,8 Dec. 2008,The Fight,8.3,"2,554",0.0141
+How I Met Your Mother,4,11,15 Dec. 2008,Little Minnesota,8.1,"2,526",-0.2584
+How I Met Your Mother,4,12,12 Jan. 2009,Benefits,8.6,"2,720",0.4228
+How I Met Your Mother,4,13,19 Jan. 2009,Three Days of Snow,8.5,"2,678",0.2866
+How I Met Your Mother,4,14,2 Feb. 2009,The Possimpible,8.4,"2,580",0.1503
+How I Met Your Mother,4,15,2 Mar. 2009,The Stinsons,8.3,"2,636",0.0141
+How I Met Your Mother,4,16,9 Mar. 2009,"Sorry, Bro",7.8,"2,499",-0.6672
+How I Met Your Mother,4,17,16 Mar. 2009,The Front Porch,8.4,"2,587",0.1503
+How I Met Your Mother,4,18,23 Mar. 2009,Old King Clancy,7.7,"2,384",-0.8034
+How I Met Your Mother,4,19,30 Mar. 2009,Murtaugh,8.5,"2,583",0.2866
+How I Met Your Mother,4,20,13 Apr. 2009,Mosbius Designs,7.7,"2,408",-0.8034
+How I Met Your Mother,4,21,27 Apr. 2009,The Three Days Rule,8.7,"2,693",0.5591
+How I Met Your Mother,4,22,4 May 2009,Right Place Right Time,8.2,"2,502",-0.1222
+How I Met Your Mother,4,23,11 May 2009,As Fast as She Can,7.7,"2,428",-0.8034
+How I Met Your Mother,4,24,18 May 2009,The Leap,8.8,"2,860",0.6953
+How I Met Your Mother,5,1,21 Sep. 2009,Definitions,8.5,"2,759",0.2866
+How I Met Your Mother,5,2,28 Sep. 2009,Double Date,8.1,"2,477",-0.2584
+How I Met Your Mother,5,3,5 Oct. 2009,Robin 101,8.4,"2,557",0.1503
+How I Met Your Mother,5,4,12 Oct. 2009,The Sexless Innkeeper,8.0,"2,611",-0.3947
+How I Met Your Mother,5,5,19 Oct. 2009,Duel Citizenship,7.8,"2,423",-0.6672
+How I Met Your Mother,5,6,2 Nov. 2009,Bagpipes,7.8,"2,347",-0.6672
+How I Met Your Mother,5,7,9 Nov. 2009,The Rough Patch,7.8,"2,472",-0.6672
+How I Met Your Mother,5,8,16 Nov. 2009,The Playbook,9.4,"5,316",1.5128
+How I Met Your Mother,5,9,23 Nov. 2009,Slapsgiving 2: Revenge of the Slap,8.0,"2,564",-0.3947
+How I Met Your Mother,5,10,7 Dec. 2009,The Window,8.1,"2,495",-0.2584
+How I Met Your Mother,5,11,14 Dec. 2009,Last Cigarette Ever,7.8,"2,614",-0.6672
+How I Met Your Mother,5,12,11 Jan. 2010,Girls vs. Suits,9.1,"4,189",1.1040
+How I Met Your Mother,5,13,18 Jan. 2010,Jenkins,8.6,"2,749",0.4228
+How I Met Your Mother,5,14,1 Feb. 2010,Perfect Week,8.8,"2,983",0.6953
+How I Met Your Mother,5,15,8 Feb. 2010,Rabbit or Duck,8.0,"2,460",-0.3947
+How I Met Your Mother,5,16,1 Mar. 2010,Hooked,7.8,"2,411",-0.6672
+How I Met Your Mother,5,17,8 Mar. 2010,Of Course,8.3,"2,695",0.0141
+How I Met Your Mother,5,18,22 Mar. 2010,Say Cheese,8.2,"2,471",-0.1222
+How I Met Your Mother,5,19,12 Apr. 2010,Zoo or False,7.6,"2,412",-0.9397
+How I Met Your Mother,5,20,19 Apr. 2010,Home Wreckers,7.9,"2,399",-0.5309
+How I Met Your Mother,5,21,3 May 2010,Twin Beds,7.8,"2,346",-0.6672
+How I Met Your Mother,5,22,10 May 2010,Robots vs. Wrestlers,8.2,"2,484",-0.1222
+How I Met Your Mother,5,23,17 May 2010,The Wedding Bride,8.1,"2,617",-0.2584
+How I Met Your Mother,5,24,24 May 2010,Doppelgangers,8.5,"2,536",0.2866
+How I Met Your Mother,6,1,20 Sep. 2010,Big Days,8.2,"2,643",-0.1222
+How I Met Your Mother,6,2,27 Sep. 2010,Cleaning House,8.3,"2,645",0.0141
+How I Met Your Mother,6,3,4 Oct. 2010,Unfinished,7.8,"2,365",-0.6672
+How I Met Your Mother,6,4,11 Oct. 2010,Subway Wars,8.6,"2,724",0.4228
+How I Met Your Mother,6,5,18 Oct. 2010,Architect of Destruction,7.8,"2,319",-0.6672
+How I Met Your Mother,6,6,25 Oct. 2010,Baby Talk,7.7,"2,330",-0.8034
+How I Met Your Mother,6,7,1 Nov. 2010,Canning Randy,7.7,"2,295",-0.8034
+How I Met Your Mother,6,8,8 Nov. 2010,Natural History,8.1,"2,406",-0.2584
+How I Met Your Mother,6,9,15 Nov. 2010,Glitter,8.5,"2,834",0.2866
+How I Met Your Mother,6,10,22 Nov. 2010,Blitzgiving,9.1,"3,804",1.1040
+How I Met Your Mother,6,11,6 Dec. 2010,The Mermaid Theory,8.0,"2,442",-0.3947
+How I Met Your Mother,6,12,13 Dec. 2010,False Positive,8.2,"2,393",-0.1222
+How I Met Your Mother,6,13,3 Jan. 2011,Bad News,8.9,"3,452",0.8315
+How I Met Your Mother,6,14,17 Jan. 2011,Last Words,8.6,"2,857",0.4228
+How I Met Your Mother,6,15,7 Feb. 2011,Oh Honey,8.8,"3,202",0.6953
+How I Met Your Mother,6,16,14 Feb. 2011,Desperation Day,8.1,"2,349",-0.2584
+How I Met Your Mother,6,17,21 Feb. 2011,Garbage Island,7.7,"2,223",-0.8034
+How I Met Your Mother,6,18,28 Feb. 2011,A Change of Heart,8.3,"2,434",0.0141
+How I Met Your Mother,6,19,21 Mar. 2011,Legendaddy,8.3,"2,573",0.0141
+How I Met Your Mother,6,20,11 Apr. 2011,The Exploding Meatball Sub,7.7,"2,247",-0.8034
+How I Met Your Mother,6,21,18 Apr. 2011,Hopeless,8.0,"2,248",-0.3947
+How I Met Your Mother,6,22,2 May 2011,The Perfect Cocktail,7.9,"2,262",-0.5309
+How I Met Your Mother,6,23,9 May 2011,Landmarks,7.8,"2,203",-0.6672
+How I Met Your Mother,6,24,16 May 2011,Challenge Accepted,8.5,"2,590",0.2866
+How I Met Your Mother,7,1,19 Sep. 2011,The Best Man,8.6,"3,288",0.4228
+How I Met Your Mother,7,2,19 Sep. 2011,The Naked Truth,8.1,"2,610",-0.2584
+How I Met Your Mother,7,3,26 Sep. 2011,Ducky Tie,8.9,"3,299",0.8315
+How I Met Your Mother,7,4,3 Oct. 2011,The Stinson Missile Crisis,8.1,"2,465",-0.2584
+How I Met Your Mother,7,5,10 Oct. 2011,Field Trip,7.5,"2,336",-1.0759
+How I Met Your Mother,7,6,17 Oct. 2011,Mystery vs. History,7.8,"2,438",-0.6672
+How I Met Your Mother,7,7,24 Oct. 2011,Noretta,7.7,"2,435",-0.8034
+How I Met Your Mother,7,8,31 Oct. 2011,The Slutty Pumpkin Returns,7.5,"2,505",-1.0759
+How I Met Your Mother,7,9,7 Nov. 2011,Disaster Averted,8.3,"2,609",0.0141
+How I Met Your Mother,7,10,14 Nov. 2011,Tick Tick Tick,9.0,"3,677",0.9678
+How I Met Your Mother,7,11,21 Nov. 2011,The Rebound Girl,8.0,"2,481",-0.3947
+How I Met Your Mother,7,12,5 Dec. 2011,Symphony of Illumination,8.8,"3,341",0.6953
+How I Met Your Mother,7,13,2 Jan. 2012,Tailgate,7.8,"2,475",-0.6672
+How I Met Your Mother,7,14,16 Jan. 2012,46 Minutes,7.7,"2,546",-0.8034
+How I Met Your Mother,7,15,6 Feb. 2012,The Burning Beekeeper,7.3,"2,686",-1.3484
+How I Met Your Mother,7,16,13 Feb. 2012,The Drunk Train,8.1,"2,544",-0.2584
+How I Met Your Mother,7,17,20 Feb. 2012,No Pressure,8.4,"2,674",0.1503
+How I Met Your Mother,7,18,27 Feb. 2012,Karma,8.0,"2,353",-0.3947
+How I Met Your Mother,7,19,19 Mar. 2012,The Broath,8.6,"2,765",0.4228
+How I Met Your Mother,7,20,9 Apr. 2012,Trilogy Time,8.6,"2,655",0.4228
+How I Met Your Mother,7,21,16 Apr. 2012,Now We're Even,8.0,"2,276",-0.3947
+How I Met Your Mother,7,22,30 Apr. 2012,Good Crazy,7.8,"2,210",-0.6672
+How I Met Your Mother,7,23,14 May 2012,The Magician's Code: Part 1,8.5,"2,676",0.2866
+How I Met Your Mother,7,24,14 May 2012,The Magician's Code: Part 2,8.9,"3,127",0.8315
+How I Met Your Mother,8,1,24 Sep. 2012,Farhampton,8.6,"4,128",0.4228
+How I Met Your Mother,8,2,1 Oct. 2012,The Pre-Nup,7.4,"2,698",-1.2121
+How I Met Your Mother,8,3,8 Oct. 2012,Nannies,7.4,"2,483",-1.2121
+How I Met Your Mother,8,4,15 Oct. 2012,Who Wants to Be a Godparent,7.5,"2,575",-1.0759
+How I Met Your Mother,8,5,5 Nov. 2012,The Autumn of Breakups,7.5,"2,562",-1.0759
+How I Met Your Mother,8,6,12 Nov. 2012,Splitsville,7.6,"2,354",-0.9397
+How I Met Your Mother,8,7,19 Nov. 2012,The Stamp Tramp,7.4,"2,282",-1.2121
+How I Met Your Mother,8,8,26 Nov. 2012,Twelve Horny Women,7.6,"2,342",-0.9397
+How I Met Your Mother,8,9,3 Dec. 2012,Lobster Crawl,7.5,"2,323",-1.0759
+How I Met Your Mother,8,10,10 Dec. 2012,The Over-Correction,8.1,"2,407",-0.2584
+How I Met Your Mother,8,11,17 Dec. 2012,The Final Page: Part One,8.6,"2,949",0.4228
+How I Met Your Mother,8,12,17 Dec. 2012,The Final Page: Part Two,9.4,"5,441",1.5128
+How I Met Your Mother,8,13,14 Jan. 2013,Band or DJ?,7.9,"2,479",-0.5309
+How I Met Your Mother,8,14,21 Jan. 2013,Ring Up!,7.9,"2,473",-0.5309
+How I Met Your Mother,8,15,4 Feb. 2013,P.S. I Love You,8.2,"2,861",-0.1222
+How I Met Your Mother,8,16,11 Feb. 2013,Bad Crazy,7.6,"2,297",-0.9397
+How I Met Your Mother,8,17,18 Feb. 2013,The Ashtray,7.8,"2,320",-0.6672
+How I Met Your Mother,8,18,25 Feb. 2013,Weekend at Barney's,8.1,"2,509",-0.2584
+How I Met Your Mother,8,19,18 Mar. 2013,The Fortress,8.0,"2,303",-0.3947
+How I Met Your Mother,8,20,25 Mar. 2013,The Time Travelers,8.3,"3,644",0.0141
+How I Met Your Mother,8,21,15 Apr. 2013,Romeward Bound,7.4,"2,252",-1.2121
+How I Met Your Mother,8,22,29 Apr. 2013,The Bro Mitzvah,8.7,"2,989",0.5591
+How I Met Your Mother,8,23,6 May 2013,Something Old,7.6,"2,427",-0.9397
+How I Met Your Mother,8,24,13 May 2013,Something New,8.8,"3,446",0.6953
+How I Met Your Mother,9,1,23 Sep. 2013,The Locket,7.8,"3,215",-0.6672
+How I Met Your Mother,9,2,23 Sep. 2013,Coming Back,7.7,"2,809",-0.8034
+How I Met Your Mother,9,3,30 Sep. 2013,Last Time in New York,7.6,"2,667",-0.9397
+How I Met Your Mother,9,4,7 Oct. 2013,The Broken Code,7.3,"2,573",-1.3484
+How I Met Your Mother,9,5,14 Oct. 2013,The Poker Game,7.2,"2,555",-1.4846
+How I Met Your Mother,9,6,21 Oct. 2013,Knight Vision,7.5,"2,534",-1.0759
+How I Met Your Mother,9,7,28 Oct. 2013,No Questions Asked,7.4,"2,572",-1.2121
+How I Met Your Mother,9,8,4 Nov. 2013,The Lighthouse,7.3,"2,597",-1.3484
+How I Met Your Mother,9,9,11 Nov. 2013,Platonish,8.3,"2,973",0.0141
+How I Met Your Mother,9,10,18 Nov. 2013,Mom and Dad,6.8,"2,698",-2.0296
+How I Met Your Mother,9,11,25 Nov. 2013,Bedtime Stories,5.7,"4,471",-3.5283
+How I Met Your Mother,9,12,2 Dec. 2013,The Rehearsal Dinner,7.8,"2,819",-0.6672
+How I Met Your Mother,9,13,16 Dec. 2013,Bass Player Wanted,8.3,"2,885",0.0141
+How I Met Your Mother,9,14,13 Jan. 2014,Slapsgiving 3: Slappointment in Slapmarra,5.9,"4,551",-3.2558
+How I Met Your Mother,9,15,20 Jan. 2014,Unpause,8.4,"3,007",0.1503
+How I Met Your Mother,9,16,27 Jan. 2014,How Your Mother Met Me,9.5,"8,200",1.6490
+How I Met Your Mother,9,17,3 Feb. 2014,Sunrise,8.2,"3,142",-0.1222
+How I Met Your Mother,9,18,24 Feb. 2014,Rally,8.0,"2,591",-0.3947
+How I Met Your Mother,9,19,3 Mar. 2014,Vesuvius,7.7,"2,636",-0.8034
+How I Met Your Mother,9,20,10 Mar. 2014,Daisy,8.5,"2,916",0.2866
+How I Met Your Mother,9,21,17 Mar. 2014,Gary Blauman,8.3,"3,005",0.0141
+How I Met Your Mother,9,22,24 Mar. 2014,The End of the Aisle,8.9,"3,877",0.8315
+How I Met Your Mother,9,23,31 Mar. 2014,Last Forever: Part One,6.7,"8,705",-2.1659
+How I Met Your Mother,9,24,31 Mar. 2014,Last Forever: Part Two,5.5,"15,916",-3.8008
+Mr Robot,1,1,24 Jun. 2015,eps1.0_hellofriend.mov,9.3,"13,296",1.3765
+Mr Robot,1,2,1 Jul. 2015,eps1.1_ones-and-zer0es.mpeg,8.7,"9,446",0.5591
+Mr Robot,1,3,8 Jul. 2015,eps1.2_d3bug.mkv,8.3,"8,336",0.0141
+Mr Robot,1,4,15 Jul. 2015,eps1.3_da3m0ns.mp4,8.1,"8,207",-0.2584
+Mr Robot,1,5,22 Jul. 2015,eps1.4_3xpl0its.wmv,8.6,"7,382",0.4228
+Mr Robot,1,6,29 Jul. 2015,eps1.5_br4ve-trave1er.asf,9.2,"8,590",1.2403
+Mr Robot,1,7,5 Aug. 2015,eps1.6_v1ew-s0urce.flv,8.6,"6,999",0.4228
+Mr Robot,1,8,12 Aug. 2015,eps1.7_wh1ter0se.m4v,9.5,"10,366",1.6490
+Mr Robot,1,9,19 Aug. 2015,eps1.8_m1rr0r1ng.qt,9.3,"8,440",1.3765
+Mr Robot,1,10,2 Sep. 2015,eps1.9_zer0-day.avi,8.9,"7,563",0.8315
+Mr Robot,2,1,10 Jul. 2016,eps2.0_unm4sk-pt1.tc,8.3,"5,768",0.0141
+Mr Robot,2,2,13 Jul. 2016,eps2.0_unm4sk-pt2.tc,8.4,"5,294",0.1503
+Mr Robot,2,3,20 Jul. 2016,eps2.1_k3rnel-pan1c.ksd,8.5,"5,120",0.2866
+Mr Robot,2,4,27 Jul. 2016,eps2.2_init_1.asec,8.4,"4,771",0.1503
+Mr Robot,2,5,3 Aug. 2016,eps2.3_logic-b0mb.hc,8.9,"4,897",0.8315
+Mr Robot,2,6,10 Aug. 2016,eps2.4_m4ster-s1ave.aes,9.1,"5,630",1.1040
+Mr Robot,2,7,17 Aug. 2016,eps2.5_h4ndshake.sme,9.3,"6,106",1.3765
+Mr Robot,2,8,24 Aug. 2016,eps2.6_succ3ss0r.p12,8.6,"4,312",0.4228
+Mr Robot,2,9,31 Aug. 2016,eps2.7_init_5.fve,8.7,"4,151",0.5591
+Mr Robot,2,10,7 Sep. 2016,eps2.8_h1dden-pr0cess.axx,9.3,"5,316",1.3765
+Mr Robot,2,11,14 Sep. 2016,eps2.9_pyth0n-pt1.p7z,8.6,"4,254",0.4228
+Mr Robot,2,12,21 Sep. 2016,eps2.9_pyth0n-pt2.p7z,9.0,"4,754",0.9678
+Mr Robot,3,1,11 Oct. 2017,eps3.0_power-saver-mode.h,8.8,"4,634",0.6953
+Mr Robot,3,2,18 Oct. 2017,eps3.1_undo.gz,9.2,"4,270",1.2403
+Mr Robot,3,3,25 Oct. 2017,eps3.2_legacy.so,8.8,"3,952",0.6953
+Mr Robot,3,4,1 Nov. 2017,eps3.3_m3tadata.par2,8.5,"3,488",0.2866
+Mr Robot,3,5,8 Nov. 2017,eps3.4_runtime-err0r.r00,9.7,"7,914",1.9215
+Mr Robot,3,6,15 Nov. 2017,eps3.5_kill-pr0cess.inc,9.7,"7,187",1.9215
+Mr Robot,3,7,22 Nov. 2017,eps3.6_fredrick+tanya.chk,9.1,"4,095",1.1040
+Mr Robot,3,8,29 Nov. 2017,eps3.7_dont-delete-me.ko,9.2,"4,945",1.2403
+Mr Robot,3,9,6 Dec. 2017,eps3.8_stage3.torrent,8.7,"3,397",0.5591
+Mr Robot,3,10,13 Dec. 2017,shutdown -r,9.5,"5,172",1.6490
+Mr Robot,4,1,6 Oct. 2019,401 Unauthorized,9.4,"5,598",1.5128
+Mr Robot,4,2,13 Oct. 2019,402 Payment Required,8.9,"4,409",0.8315
+Mr Robot,4,3,20 Oct. 2019,403 Forbidden,8.8,"4,364",0.6953
+Mr Robot,4,4,27 Oct. 2019,404 Not Found,8.9,"4,752",0.8315
+Mr Robot,4,5,3 Nov. 2019,405 Method Not Allowed,9.8,"8,451",2.0578
+Mr Robot,4,6,10 Nov. 2019,406 Not Acceptable,9.2,"4,685",1.2403
+Mr Robot,4,7,17 Nov. 2019,407 Proxy Authentication Required,9.9,"17,618",2.1940
+Mr Robot,4,8,24 Nov. 2019,408 Request Timeout,9.3,"5,214",1.3765
+Mr Robot,4,9,1 Dec. 2019,409 Conflict,9.8,"8,493",2.0578
+Mr Robot,4,10,8 Dec. 2019,410 Gone,8.4,"5,071",0.1503
+Mr Robot,4,11,15 Dec. 2019,eXit,9.6,"6,112",1.7853
+Mr Robot,4,12,22 Dec. 2019,whoami,9.7,"6,660",1.9215
+Mr Robot,4,13,22 Dec. 2019,"Hello, Elliot",9.9,"10,890",2.1940
